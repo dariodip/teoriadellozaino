@@ -3,6 +3,10 @@ languageCode: en-us
 title: La Teoria dello Zaino
 theme: hugo-refresh
 customCss: "css/refresh.css"
+
+caches:
+  images:
+    dir: :cacheDir/images
 # theme: ../..
 
 #########################################
