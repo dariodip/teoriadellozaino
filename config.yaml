@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Personal website and blog
+title: La Teoria dello Zaino
 theme: hugo-refresh
 customCss: "css/refresh.css"
 # theme: ../..
@@ -14,10 +14,7 @@ assetDir: "static"
 
 # Option to specify the default language of the theme
 # I.e., the landing language of your root 
-DefaultContentLanguage: en
-
-## Option to disable additional language in your site.
-# disableLanguages: ["ru"]
+DefaultContentLanguage: it
 
 disableKinds: ["sitemap","RSS"]
 
@@ -42,12 +39,12 @@ params:
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/favicon.svg"
+  favicon: "/img/logo-transparent.png"
 
   # parameter used to specify if you want to minify the imported js
-  jsMinify: false
+  jsMinify: true
   # parameter used to specify if you want to minify the imported css
-  cssMinify: false
+  cssMinify: true
   # parameter used to specify if you want to calculate the css integrity
   cssIntegrity: true
   # parameter used to specify if you want to calculate the js integrity
@@ -70,14 +67,14 @@ params:
   # main pages options
   mainPage:
     # option to specify the main font of the theme
-    # fontFamily: "Open Sans" # --> it will lookup in the google fonts
-    fontFamily: "/fonts/Open Sans.css" # --> it will lookup in the local folder
+    fontFamily: "Zain" # --> it will lookup in the google fonts
+    #fontFamily: "/fonts/Open Sans.css" # --> it will lookup in the local folder
 
   # sidebar options
   sidebar:
     # option to specify the logo of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/img/logo-transparent.png"
     # option to specify the font of the sidebar
     fontFamily: "Open Sans" # "Open Sans"
 
@@ -86,7 +83,7 @@ params:
     # option to specify the font used in the navbar
     fontFamily: "Open Sans"
     # option to show the little logos on the side of the navbar items
-    showIcons: false
+    showIcons: true
     
   # 404 page options
   pagNotFound:
@@ -104,7 +101,7 @@ params:
   homepage:
     # this options let you specify if you want a link to the homepage
     # it can be: "none", "menu", "footer" or "menu+footer"
-    # linkPosition: "footer" 
+    linkPosition: "menu" 
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
@@ -120,15 +117,11 @@ params:
   footer:
     # option to specify the logo in the footer
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/img/logo-transparent.png"
     # option to specify your contact email in the footer
     email: 
-      link: name.surname@domain.com
-      title: My Email
-    # option to specify your linkedin profile in the footer
-    linkedin: 
-      link: your_linkedin_profile
-      title: My LinkedIn
+      link: info@lateoriadellozaino.it
+      title: Email
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
     # facebook: 
@@ -160,7 +153,7 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2024
+    copyright: Dario Di Pasquale - 2025
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -168,49 +161,7 @@ params:
 languages:
   en:
     languageName:       English
-    weight:             1
-  ru:
-    languageName:       Russian
     weight:             2
-    # When Specifying different parameters for a different language 
-    # you need to specify all the mandatory sub-parameters as well.
-    # E.g.: if you specify the "homepage" parameter then you need to
-    #       specify all mandatory sub-parameters, e.g.: "title". 
-    # See example below:
-    params:
-      homepage:
-        title: Julia белая краска
-        subtitle: Персональный сайт и блог
-        image: "/images/avataaars.png" # worker.svg 
-        imageWidth: 500px
-      
-      # Some sub-parameters of the "footer" parameter
-      # can be omitted because the code allows for them to be 
-      # missed but they will treated as they do not exist,
-      # i.e., the parameters of the default language
-      # won't be inherited.
-      footer:
-        logo: "/images/refresh-square.svg"
-        email: 
-          link: имя.фамилия@домен.com
-          title: Эл. адрес
-        linkedin: 
-          link: your_linkedin_profile
-          title: LinkedIn
-        # facebook: 
-        #   link: your.username
-        #   title: Facebook 
-        # twitter: 
-        #   link: username
-        #   title: Twitter
-        # instagram: 
-        #   link: username
-        #   title: Instagram
-        # github: 
-        #   link: username
-        #   title: Github
-        # gitlab: 
-        #   link: username
-        #   title: Gitlab
-        copyright: Julia белая краска - 2020
-      
+  it:
+    languageName:       Italian
+    weight:             1
