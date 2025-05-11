@@ -2,3 +2,8 @@
 body {
   background-color: #fcf1e5;
 }
+
+footer > div > div > div:nth-child(1) > img {
+  width: 50%;
+  border-radius: 25px;
+}
