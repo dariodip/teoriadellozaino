@@ -1,0 +1,79 @@
+<section class="section is-medium">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-centered-tablet-portrait">
+          <h1 class="title is-2 section-title mb-4">{{- .Title -}}</h1>
+          <h5 class="subtitle is-5 is-muted mb-4">{{- .Params.Subtitle -}}</h5>
+          
+          {{- if .Params.route -}}
+          <div class="box scheda-tecnica has-shadow m-5 p-5">
+            <p class="title is-5 has-text-weight-semibold has-text-grey-dark mb-4">Scheda tecnica</p>
+            <div class="columns is-mobile is-multiline is-variable is-2 has-text-centered">
+              <div class="column is-one-third">
+                <p class="heading">Animali 
+                    <span class="has-tooltip-multiline has-tooltip-bottom icon is-small" data-tooltip="Probabilità di avvistare animali lungo il percorso">
+                        <i class="fa-solid fa-circle-info"></i>
+                    </span>
+                </p>
+                <p class="is-size-4">
+                  {{ range seq 1 5 }}
+                    <span class="rating-emoji" style="opacity: {{ if le . $.Params.animali }}1{{ else }}0.3{{ end }}; margin: 0 0.2em;">🐗</span>
+                  {{ end }}
+                </p>
+              </div>
+              <div class="column is-one-third">
+                <p class="heading">Difficoltà
+                    <span class="has-tooltip-multiline has-tooltip-bottom icon is-small" data-tooltip="Difficoltà generale del percorso">
+                        <i class="fa-solid fa-circle-info"></i>
+                    </span>
+                </p>
+                <p class="is-size-4">
+                  {{ range seq 1 5 }}
+                    <span class="rating-emoji" style="opacity: {{ if le . $.Params.difficolta }}1{{ else }}0.3{{ end }}; margin: 0 0.2em;">🥾</span>
+                  {{ end }}
+                </p>
+              </div>
+              <div class="column is-one-third">
+                <p class="heading">Bellezza
+                    <span class="has-tooltip-multiline has-tooltip-bottom icon is-small" data-tooltip="Bellezza del percorso in termini di panorama">
+                        <i class="fa-solid fa-circle-info"></i>
+                    </span>
+                </p>
+                <p class="is-size-4">
+                  {{ range seq 1 5 }}
+                    <span class="rating-emoji" style="opacity: {{ if le . $.Params.bellezza }}1{{ else }}0.3{{ end }}; margin: 0 0.2em;">📷</span>
+                  {{ end }}
+                </p>
+              </div>
+            </div>
+          </div>
+          
+          {{- end -}}
+          
+          <div class="divider"></div>
+          {{/*  <section class="section content">  */}}
+          <section class="section content has-text-justified">
+            <!-- <div class="content"> -->
+              {{- .Content -}}
+            <!-- </div> -->
+          </section>
+        </div>
+      </div>
+    </div>  
+    <!-- <div class="container">
+      <div class="columns">
+        <div class="column">
+        </div>
+      </div>
+    </div> -->
+    {{- if not .Params.hideLastModified -}}
+    <div class="container">
+      <div class="columns">
+        <div class="column has-text-right is-family-monospace is-centered-tablet-portrait">
+          {{ i18n "lastModified" }}:&nbsp;
+          {{- .Lastmod.Format "2 January 2006" -}}
+        </div>
+      </div>
+    </div>
+    {{- end -}}
+  </section>

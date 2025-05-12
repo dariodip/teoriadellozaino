@@ -7,3 +7,14 @@ footer > div > div > div:nth-child(1) > img {
   width: 50%;
   border-radius: 25px;
 }
+
+.rating-emoji {
+  margin: 0 0.2em;
+  font-size: 1.5rem;
+  transition: opacity 0.3s ease;
+}
+
+.scheda-tecnica {
+  background-color: #A8C0A8;
+  margin-top: 3rem;
+}
