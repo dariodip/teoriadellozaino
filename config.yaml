@@ -48,7 +48,7 @@ params:
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/img/logo-transparent.png"
+  favicon: "/img/logo.png"
 
   # parameter used to specify if you want to minify the imported js
   jsMinify: true
@@ -60,12 +60,13 @@ params:
   jsIntegrity: true
   # option to specify the main colour of the theme
   mainColour: "#A8C0A8"
+  #mainColour: "#668d66"
 
   # summary options
   summary:
     # option to specify the default image in the summary list
     # the starting folder is configure in "assetDir" of this file
-    defaultImage : "/images/default_summary.jpg"
+    defaultImage : "/img/logo.png"
   
   # loading options
   loading:
@@ -98,7 +99,7 @@ params:
   pagNotFound:
     # option to specify the main picture of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    image: "/images/avataaars_404.png"
+    image: "/img/logo-transparent.png" #TODO: logo con errore
     # option to specify the title of the 404 page
     title: 404 Page Not Found :(
     # option to specify the subtitle of the 404 page
