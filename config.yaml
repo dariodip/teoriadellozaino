@@ -168,9 +168,9 @@ params:
 ################## multilanguage support options ##################
 ###################################################################
 languages:
-  en:
-    languageName:       English
-    weight:             2
+  # en:
+  #   languageName:       English
+  #   weight:             2
   it:
     languageName:       Italian
     weight:             1
