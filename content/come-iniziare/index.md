@@ -5,10 +5,5 @@ draft: true
 hideLastModified: true
 showInMenu: false
 summaryImage: "/img/logo-transparent.png" 
-tags: ["percorsi", "trekking"]
-route: true
-animali: 5
-difficolta: 1
-bellezza: 0
+tags: ["guide"]
 ---
-Prova
