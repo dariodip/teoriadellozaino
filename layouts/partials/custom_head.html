@@ -1,1 +1,9 @@
+{{ if .Description }}
+   <meta name="description" content="{{ .Description }}">
+{{ else if .IsPage }}
+  <meta name="description" content="{{ .Summary | plainify }}">
+{{ else }}
+    <meta name="description" content="Guide e riflessioni su trekking e cammini">
+{{ end }}
+
 <link rel="stylesheet" href="/css/refresh.css">

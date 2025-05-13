@@ -1,6 +1,6 @@
 baseURL: https://www.lateoriadellozaino.it
 languageCode: en-us
-title: La Teoria dello Zaino
+title: La Teoria dello Zaino - Blog su trekking e cammini
 theme: hugo-refresh
 customCss: "css/refresh.css"
 
@@ -25,7 +25,11 @@ assetDir: "static"
 # I.e., the landing language of your root 
 DefaultContentLanguage: it
 
-disableKinds: ["sitemap","RSS"]
+disableKinds: [ "RSS"]
+sitemap:
+  changeFreq: "always"  # Default change frequency (empty string)
+  filename: "sitemap.xml"  # Sitemap file name
+  priority: -1  # Default priority (-1 means omitted from rendered sitemap)
 
 # Option to specify that all links will be open in a new tab.
 blackfriday:
@@ -117,7 +121,7 @@ params:
     # option to specify the title in the homepage
     title: La Teoria dello Zaino
     # option to specify the subtitle in the homepage
-    subtitle: Blog su trekking e cammini
+    subtitle: Esprienze, guide e riflessioni su trekking e cammini. Per vivere e amare la montagna e il mondo outdoor
     # option to specify image in the homepage
     image: "/img/logo-transparent.png" # worker.svg 
     # option to specify the width of the image in the homepage
