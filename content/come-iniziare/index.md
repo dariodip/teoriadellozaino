@@ -1,5 +1,5 @@
 ---
-title: "Monte dell'Avvocata"
+title: "Come iniziare"
 date: 2025-05-09T23:53:00+01:00
 draft: true
 hideLastModified: true
