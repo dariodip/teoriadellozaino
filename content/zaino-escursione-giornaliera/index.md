@@ -80,7 +80,7 @@ I **bastoncini telescopici** sono molto utili per alleggerire le ginocchia in di
 Per citare Douglas Adams in _La guida galattica per gli autostoppisti_, porto sempre con me un **asciugamano**. Ne ho acquistato uno ultraleggero e ad asciugatura rapida, comodissimo in mille occasioni. 
 
 <div class="has-text-centered m-10">
-    <figure class="image is-inline-block" style="width: 500px;">
+    <figure class="image is-inline-block" style="width: 55%;">
         <img class="image box" src="dont-panic.avif" alt="Don't Panic" width="500"/>
     </figure>
 </div>
