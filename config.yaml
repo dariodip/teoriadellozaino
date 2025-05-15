@@ -117,11 +117,11 @@ params:
     # it can be: "none", "menu", "footer" or "menu+footer"
     linkPosition: "menu" 
     # this options let you specify the text of the link to the homepage
-    # linkText: "Homepage"  
+    linkText: "Homepage"  
     # option to specify the title in the homepage
     title: La Teoria dello Zaino
     # option to specify the subtitle in the homepage
-    subtitle: Esprienze, guide e riflessioni su trekking e cammini. Per vivere e amare la montagna e il mondo outdoor
+    subtitle: In questo sito voglio raccogliere esprienze, guide e riflessioni su trekking e cammini. Per vivere e amare la montagna e il mondo outdoor.
     # option to specify image in the homepage
     image: "/img/logo-transparent.png" # worker.svg 
     # option to specify the width of the image in the homepage

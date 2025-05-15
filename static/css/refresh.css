@@ -18,3 +18,8 @@ footer > div > div > div:nth-child(1) > img {
   background-color: #A8C0A8;
   margin-top: 3rem;
 }
+
+.cta-btn {
+  background-color: #A8C0A8;
+  border-color: #6d926d;
+}
