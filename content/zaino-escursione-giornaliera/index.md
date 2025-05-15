@@ -25,10 +25,41 @@ Ad esempio, è inutile portare con noi le confezioni di tutti i medicinali che p
 
 Viaggiare leggeri e portare con noi solo l'essenziale è la chiave per un'escursione piacevole.
 
+Questo è l'elenco degli oggetti che metto nel mio zaino, e in seguito li andremo ad approfondire uno ad uno:
+
+- [1,5–2 litri d'acqua (sacca idrica o bottiglia)](#i-fondamentali)
+- [Pranzo al sacco](#i-fondamentali)
+- [Snack (frutta secca, barrette, cioccolato)](#i-fondamentali)
+- [Giacca antipioggia/antivento (guscio)](#i-fondamentali)
+- [Kit di primo soccorso](#i-fondamentali)
+- [Cerotti Compeed](#i-fondamentali)
+- [Sale e zucchero](#i-fondamentali)
+- [Medicine personali (antistaminici, ibuprofene, ecc.)](#i-fondamentali)
+- [Documenti d’identità](#i-fondamentali)
+- [Sacchetti per i rifiuti](#i-fondamentali)
+- [Coltellino (multiuso o semplice)](gli-utili)
+- [Accendino antivento](gli-utili)
+- [Cappello di lana](gli-utili)
+- [Scaldacollo / Buff](gli-utili)
+- [Salviette umidificate biodegradabili](gli-utili)
+- [Fazzoletti di carta](gli-utili)
+- [Crema solare](gli-utili)
+- [Calze di ricambio](gli-utili)
+- [Maglietta di ricambio](gli-utili)
+- [Occhiali da sole (polarizzati)](gli-utili)
+- [Insetticida](#gli-utili)
+- [Power bank](#la-tecnologia)
+- [Lampada frontale](#la-tecnologia)
+- [Navigatore GPS (es. Garmin eTrex SE)](#la-tecnologia)
+- [Orologio GPS (in alternativa)](#la-tecnologia)
+- [Bastoncini telescopici](#gli-opzionali)
+- [Asciugamano in microfibra (ultraleggero)](#gli-opzionali)
+- [Sacca impermeabile / fodera interna per zaino](#gli-opzionali)
+
 
 ## I fondamentali
 
-Partiamo dai **fondamentali**, e cominciamo dall'acqua. **Dobbiamo sempre portare con noi 1,5/2 litri d'acqua**, in base alla stagione e al tipo di percorso. Ovviamente, nei mesi più caldi e su itinerari più impegnativi, è bene aumentare la quantità. Nel mio caso, evito di portare borracce, che vanno solo ad appesantirmi, e preferisco una sacca idrica o la classica bottiglia di plastica.
+Partiamo dai **fondamentali**, e cominciamo dall'>acqua. **Dobbiamo sempre portare con noi 1,5/2 litri d'acqua**, in base alla stagione e al tipo di percorso. Ovviamente, nei mesi più caldi e su itinerari più impegnativi, è bene aumentare la quantità. Nel mio caso, evito di portare borracce, che vanno solo ad appesantirmi, e preferisco una sacca idrica o la classica bottiglia di plastica.
 Io controllo sempre in anticipo la presenza di fonti lungo il tragitto, aiutandomi con app come _Komoot_ e _Garmin Explore_.
 
 Insieme all'idratazione c'è l'alimentazione. Ricordiamoci di portare con noi un **pranzo al sacco** e qualche **snack** leggero. Per l'alimentazione è sempre consigliato portare cibi facilmente digeribili. Per gli snack, per esempio, prediligere frutta secca, barrette e  cioccolato.
