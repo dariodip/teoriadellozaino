@@ -160,9 +160,9 @@ params:
     #    title: Twitter
     # option to specify your instagram username in the footer; 
     # **uncomment** the below lines to show in footer
-    # instagram: 
-    #    link: username
-    #    title: Instagram
+    instagram: 
+      link: lateoriadellozaino
+      title: Instagram
     # option to specify your telegram username in the footer; 
     # **uncomment** the below lines to show in footer
     # telegram: 
