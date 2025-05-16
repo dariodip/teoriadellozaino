@@ -31,6 +31,8 @@ sitemap:
   filename: "sitemap.xml"  # Sitemap file name
   priority: -1  # Default priority (-1 means omitted from rendered sitemap)
 
+enableRobotsTXT: true
+
 # Option to specify that all links will be open in a new tab.
 blackfriday:
   hrefTargetBlank: true
