@@ -34,7 +34,7 @@ La giornata culmina con la processione della statua della Madonna, accompagnata 
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 55%;">
-        <img class="image box" src="festa-dell-avvocata.avif" alt="Processione dell'avvocata" width="600"/>
+        <img class="image box" src="festa-dell-avvocata.webp" alt="Processione dell'avvocata" width="600"/>
     </figure>
 </div>
 
@@ -48,7 +48,7 @@ Il percorso parte dall'[Abbazia della Santissima Trinità](https://maps.app.goo.
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 55%;">
-        <img class="image box" src="abbazia.jpeg" alt="Abbazia vista dall'alto" width="600"/>
+        <img class="image box" src="abbazia.webp" alt="Abbazia vista dall'alto" width="600"/>
     </figure>
 </div>
 
@@ -56,7 +56,7 @@ L'inizio del percorso, si trova sulla sinistra rispetto all'abbazia, scendendo l
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 55%;">
-        <img class="image box" src="bivio.jpeg" alt="Cartello con indicazioni bivio" width="600"/>
+        <img class="image box" src="bivio.webp" alt="Cartello con indicazioni bivio" width="600"/>
     </figure>
 </div>
 
@@ -67,7 +67,7 @@ Questo è uno dei due punti d'acqua che troviamo lungo il sentiero.
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 45%;">
-        <img class="image box" src="capodacqua.jpeg" alt="Punto d'acqua capodacqua" width="600"/>
+        <img class="image box" src="capodacqua.webp" alt="Punto d'acqua capodacqua" width="600"/>
     </figure>
 </div>
 
@@ -78,7 +78,7 @@ Proseguendo per circa un altro chilometro sul CAI 300, arriviamo a **Cappella Ve
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 45%;">
-        <img class="image box" src="cappella-vecchia.jpeg" alt="Vista del monte Falerio da Cappella Vecchia" width="600"/>
+        <img class="image box" src="cappella-vecchia.webp" alt="Vista del monte Falerio da Cappella Vecchia" width="600"/>
     </figure>
 </div>
 
@@ -94,7 +94,7 @@ Il Monte Falerio si trova al confine tra i territori di **Vietri sul Mare** e **
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 55%;">
-        <img class="image box" src="monte-falerio.jpeg" alt="Croce di vetta del Monte Falerio" width="600"/>
+        <img class="image box" src="monte-falerio.webp" alt="Croce di vetta del Monte Falerio" width="600"/>
     </figure>
 </div>
 
@@ -112,7 +112,7 @@ Lungo la strada possiamo trovare le tappe della via Crucis della suddetta proces
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 45%;">
-        <img class="image box" src="acquafredda.jpeg" alt="Sorgente Acquafredda" width="600"/>
+        <img class="image box" src="acquafredda.webp" alt="Sorgente Acquafredda" width="600"/>
     </figure>
 </div>
 
@@ -124,7 +124,7 @@ L'ultimo tratto che porta sulla vetta del **Monte dell'Avvocata** è quello più
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 60%;">
-        <img class="image box" src="vetta-avvocata.jpeg" alt="Vista a 360 gradi dalla vetta del monte dell'avvocata" width="600"/>
+        <img class="image box" src="vetta-avvocata.webp" alt="Vista a 360 gradi dalla vetta del monte dell'avvocata" width="600"/>
     </figure>
 </div>
 
@@ -143,7 +143,7 @@ Da qui è anche possibile proseguire per una scalinata che porta a **Maiori**.
 
 <div class="has-text-centered m-10">
     <figure class="image is-inline-block" style="width: 60%;">
-        <img class="image box" src="santuario-avvocata.jpeg" alt="Vista della costiera amalfitana dal santuario dell'avvocata" width="600"/>
+        <img class="image box" src="santuario-avvocata.webp" alt="Vista della costiera amalfitana dal santuario dell'avvocata" width="600"/>
     </figure>
 </div>
 
